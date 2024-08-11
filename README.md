@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Blockchain**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust**, **Move**
 
 - 💬 Ask me about **React, C++, Python, Graphic Designing**
 
