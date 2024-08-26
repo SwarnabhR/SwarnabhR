@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swarnabh</h1>
 <h3 align="center">Where AI Thinks, VR Thrives, and Blockchain Secures—Welcome to My Lab</h3>
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSwarnabhR&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSwarnabhR)
 - 🔭 I’m currently working on **Blockchain**
 
 - 🌱 I’m currently learning **Rust**, **Move**
