@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swarnabh</h1>
 <h3 align="center">Where AI Thinks, VR Thrives, and Blockchain Secures—Welcome to My Lab</h3>
-- 🔭 I’m currently working on Blockchain
+
+- 🔭 I’m currently working on **Blockchain**
 
 - 🌱 I’m currently learning **Rust**, **Move**
 
