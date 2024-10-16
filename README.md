@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Swarnabh</h1>
 <h3 align="center">Where AI Thinks, VR Thrives, and Blockchain Secures—Welcome to My Lab</h3>
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I’m currently working on Blockchain
 
 - 🌱 I’m currently learning **Rust**, **Move**
 
 - 💬 Ask me about **React, C++, Python, Graphic Designing**
 
-- 📫 How to reach me **swarnabh15.roy@gmail.com**
+- 📫 How to reach me **workspace.swarnabh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
