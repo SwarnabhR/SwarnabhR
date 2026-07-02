@@ -1,2 +1,1 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwarnabhR&theme=2077)
-
+![GitHubCard](https://githubcard.com/SwarnabhR.svg)
